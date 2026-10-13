@@ -368,8 +368,8 @@ This Rock is complete when:
 | R5-M26-t1 | Read the existing coaching SOP from start to finish and compare it with how coaching actually runs. | Brent | work | 0.5 | 0 | — |
 | R5-M26-t2 | Mark every section KEEP, UPDATE, DELETE or ADD. | Brent | work | 0.5 | 0 | R5-M26-t1 |
 | R5-M26-t3 | Write the findings: what is unclear, outdated, incomplete, redundant or wrong. | Brent | work | 0.5 | 0 | R5-M26-t2 |
-| R5-M26-t4 | Review the findings together and agree what changes; settle disagreements before anyone edits. Bernardo attends. | Brent | meeting | 0.2 | 0 | R5-M26-t3 |
-| R5-M26-t5 | List the processes that still need to be defined before they can be written down. | Brent | work | 0.3 | 0 | R5-M26-t4 |
+| R5-M26-t4 | Removed by D-007: no joint review meeting; the coaching SOP was updated directly from the findings. | — | — | 0 | 0 | — |
+| R5-M26-t5 | List the processes that still need to be defined before they can be written down. | Brent | work | 0.3 | 0 | R5-M26-t3 |
 
 ### R5-M27 — Coaching SOP updated and in NotebookLM
 **Depends on:** R5-M26
@@ -409,7 +409,7 @@ Order and dependencies only. The dashboard computes when each of these lands, us
 5. **Coach onboarding (R5-M13-t3, R5-M14, R5-M15, R5-M16):** the comparison meeting, then the two scoping meetings, the training materials, the training SOP, the rest of the changes and the learning path. Then start Mikari, work her problems as they appear, close the run, and get her a first client.
 6. **End meso (R5-M17):** t4 agrees the changes, then t5, t6, t7 in parallel, plus the t8 and t9 meetings. R5-M19-t1 reviews the first produced presentation.
 7. **Transfer (R5-M20, R5-M21, R5-M22, R5-M23):** for each responsibility the pattern is the same: write the SOP section, run it once with Bernardo present, correct the section. The two longest waits sit here, in R5-M20-t11 and R5-M23-t5.
-8. **SOPs and hand-off (R5-M24, R5-M25, R5-M26, R5-M27):** the head coach SOP draws on the transfer work and closes last. R5-M25-t5 decides what Bernardo stops doing, which gates telling the team who to go to for what. The coaching SOP review and update run their own line, with R5-M27-t2 and t3 waiting on the new onboarding SOP and the training SOP.
+8. **SOPs and hand-off (R5-M24, R5-M25, R5-M26, R5-M27):** the head coach SOP draws on the transfer work and closes last. R5-M25-t5 decides what Bernardo stops doing, which gates telling the team who to go to for what. The coaching SOP review and update run their own line, with R5-M27-t2 and t3 waiting on the new onboarding SOP and the training SOP. The joint findings meeting (R5-M26-t4) was dropped by D-007.
 
 ## Cut order if capacity slips
 **Proposed, not confirmed.** Sprint Commitments marks the cut order as "Proposed, to be confirmed together with every Rock visible side by side." Nothing in this section is settled, and it is tracked as an open decision in the Project Brain.
