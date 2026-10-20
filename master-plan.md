@@ -144,16 +144,17 @@ This Rock is complete when:
 | R5-M9-t4 | Contingent: repeat the practice with any coach who did not pass. | Brent | work | 1 | 0 | R5-M9-t3 |
 
 ### R5-M10 — Kickoff call audit done, findings written
-**Depends on:** none
+**Depends on:** none (but its first task waits on a cutover task in R5-P2)
 
 | Task | What gets done | Owner | Type | Work | Wait | Depends on |
 |---|---|---|---|---|---|---|
-| R5-M10-t1 | Choose the kickoff calls to audit from each coach. | Brent | work | 0.2 | 0 | — |
+| R5-M10-t1 | Choose the kickoff calls to audit from each coach. | Brent | work | 0.2 | 0 | R5-M10-t7 |
 | R5-M10-t2 | Audit the chosen calls against the defined kickoff standard. | Brent | work | 0.5 | 0 | R5-M10-t1 |
 | R5-M10-t3 | Write the findings, separating what is one coach from what is the whole team. | Brent | work | 0.2 | 0 | R5-M10-t2 |
 | R5-M10-t4 | Give feedback to each coach. | Brent | work | 0.4 | 0 | R5-M10-t3 |
 | R5-M10-t5 | Contingent: update the SOP or the training materials if a problem is systemic. | Brent | work | 0.3 | 0 | R5-M10-t3 |
 | R5-M10-t6 | Decide how often the head coach audits, how calls are picked and how feedback is recorded. | Brent | meeting | 0.2 | 0 | R5-M10-t3 |
+| R5-M10-t7 | Wait until Ceci, Jackie and Miguel have each run one kickoff call on the new system. Elapsed time only. | Brent | work | 0 | 7 | R5-M7-t8* |
 
 ### R5-M11 — Kickoff upsell standard and feedback loop
 **Depends on:** none
@@ -403,7 +404,7 @@ Order and dependencies only. The dashboard computes when each of these lands, us
 
 ### Brent
 1. **Role definition (R5-M1):** t3 merges the lists, t4 marks each responsibility, t5 is the agreement meeting with Bernardo. Everything in projects P6 and P7 waits on this.
-2. **Startable immediately in parallel:** the kickoff call audit (R5-M10-t1 onward), the upsell meeting (R5-M11-t1), confirming the shirts arrived (R5-M12-t2), his own coach onboarding review (R5-M13-t2), his own end meso audit (R5-M17-t2), telling the team he is taking the role (R5-M25-t1), and reading the coaching SOP (R5-M26-t1).
+2. **Startable immediately in parallel:** the upsell meeting (R5-M11-t1), confirming the shirts arrived (R5-M12-t2), his own coach onboarding review (R5-M13-t2), his own end meso audit (R5-M17-t2), telling the team he is taking the role (R5-M25-t1), and reading the coaching SOP (R5-M26-t1). R5-M10-t7 is an elapsed-time wait; the audit (R5-M10-t1 onward) follows it.
 3. **Metrics and KPIs:** R5-M2-t2 reviews the retention dashboard, startable now. R5-M2-t3 lists other head coach data after the role definition. Then the R5-M2-t4 meeting, then R5-M3-t1, t2, t3 once the role definition and the metrics are both done. R5-M4-t2 confirms the dashboard.
 4. **Kickoff standard (R5-M7-t3, R5-M8, R5-M9):** test the builder from his own account, write the competency questionnaire, update the onboarding and kickoff SOP, load it into NotebookLM, then run the calibration call and record who passed. R5-M7-t7 waits for the coaches' mock-call Looms.
 5. **Coach onboarding (R5-M13-t3, R5-M14, R5-M15, R5-M16):** the comparison meeting, then the two scoping meetings, the training materials, the training SOP, the rest of the changes and the learning path. Then start Mikari, work her problems as they appear, close the run, and get her a first client.
