@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-10-20, Brent (state catch-up)_
+_Last updated: 2026-10-21, Brent (coach audit rebuilt around client calls; measurement trimmed)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -27,12 +27,14 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - End meso call structure (R5-M17): t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
 - Quarterly audit (R5-M23): t1 Bernardo sent Brent a video showing how the coach audit is done and gave him access to his Claude project that guides a person through the audit. Brent has since run an audit of the other coaches himself. t2 SOP section for the quarterly coach audit written.
 - Coaching SOP reviewed (R5-M26): t1, t2, t3. t4 removed by D-007.
+- The quarterly coach audit SOP section is written, with the roadmap category replaced by a client call review (R5-M23-t2).
+- The coach audit documents are reissued as v5 in the Rock folder: audit SOP, Analysis Template, Evaluation Template and Coaches Review Tracker.
 
 ## In progress
 - Wait for the first client whose kickoff used the new system, plus one week (R5-M18-t5, Bernardo): started now that the cutover is done. Elapsed time only.
 - Mikari's run (R5-M15-t2): elapsed-time wait while she goes through the onboarding. Alongside it, Brent logs problems as they show up and adjusts the process (R5-M15-t3).
 - Wait for Ceci, Jackie and Miguel to each run one kickoff call on the new system (R5-M10-t7, Brent). Elapsed time only.
-- Correct the quarterly audit SOP section (R5-M23-t3, Brent).
+- Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
 - Head coach SOP (R5-M24-t1): Brent started aligning his first draft (https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit), but the role definition (R5-M1) hasn't started. Anything written now has to be checked against the agreed role definition once it exists. The task isn't done until that alignment happens.
 
 ## Next up (startable now, no open dependency)
@@ -48,6 +50,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Log Mikari's problems as they appear (R5-M15-t3). Ongoing during her run.
 - Tell the coaching team Brent is taking the role (R5-M25-t1).
 - List the coaching processes that still need defining (R5-M26-t5).
+- Decide whether the original four coach audit documents are retired or stay live, then rewrite Section 8.4 of the head coach SOP to match.
 
 ## Blocked / waiting
 Nothing in this Rock waits on another Rock. Every chain below ends in something listed under Next up or In progress.
@@ -82,7 +85,13 @@ Each of these is unsettled. None of them is logged as a decision.
 - Brent's confirmation of the dashboard (R5-M4-t2).
 
 **Kickoff standard**
-- How often the head coach audits kickoff calls, how calls are picked, and how feedback is recorded (R5-M10-t6).
+- How often the head coach audits kickoff calls, how calls are picked, and how feedback is recorded (R5-M10-t6). D-012 now sets a selection method for the quarterly coach audit, so R5-M10-t6 should not decide it a second way.
+
+**Coach audit**
+- Whether the audit scores all nine weighted categories, or only the four Core craft categories by judgment with retention, satisfaction, peer input and forum participation taken straight off the data. A sample of two clients may not support one-decimal precision across nine categories.
+- Whether the client call rubric lives in one place. It is currently written in full in both head coach SOP 5.3 and Coach Audit System SOP v5 section 4.3.
+- Whether satisfaction requires at least 5 valid responses per coach or 2. v4 said both in different places; v5 aligned them to 5 pending confirmation.
+- Whether the three pre-existing tracker defects get fixed: the LOW/OK/HIGH flag counters, which have never matched the labels the Flag column writes and have always returned 0; the trailing space in "Jackie " in row 11, which will split her history the first time someone types the name without it; and the cells that were already hardcoded over their formulas before this work started.
 
 **End meso**
 - What has to change in the end meso call structure (R5-M17-t4).
@@ -90,6 +99,7 @@ Each of these is unsettled. None of them is logged as a decision.
 - The criteria for asking for referrals and a Google review at the second end meso (R5-M17-t9).
 - Bernardo's approval of the finished call structure document (R5-M17-t10).
 - Bernardo's approval of the end meso presentation design in Google Slides (R5-M18-t1).
+- The End-of-Meso look-for list in head coach SOP 5.3 and Audit SOP v5 assumes the current call structure, so if R5-M17 changes it, both lists need re-checking.
 
 **Community**
 - How the community calls run under Brent, what Gaby takes over, and whether community engagement posts and birthday gifts are implemented and how (R5-M22-t1).

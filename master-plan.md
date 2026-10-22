@@ -327,6 +327,7 @@ This Rock is complete when:
 | R5-M23-t1 | Do this quarter's coach audit and send it to Brent in a Loom, so Brent sees how it is done. | Bernardo | work | 1 | 0 | — |
 | R5-M23-t2 | Write the SOP section for the quarterly coach audit. | Brent | work | 0.3 | 0 | R5-M23-t1 |
 | R5-M23-t3 | Correct the SOP section with what the audit showed. | Brent | work | 0.2 | 0 | R5-M23-t2 |
+| R5-M23-t7 | Reissue the Coach Audit Analysis Template, the Coach Performance Evaluation Template and the Coaches Review Tracker with the audit's new categories and weights. | Brent | work | 0.3 | 0 | R5-M23-t2 |
 | R5-M23-t4 | Write the SOP section for reporting to Joey and Bernardo: systemic issues such as pricing and offer gaps, client and coach trends, and how the coaching system is evolving. | Brent | work | 0.1 | 0 | R5-M1* |
 | R5-M23-t5 | Brent gives the first report. Bernardo attends. | Brent | meeting | 0.3 | 20 | R5-M23-t4 |
 | R5-M23-t6 | Correct the SOP section with what the first report showed. | Brent | work | 0.2 | 0 | R5-M23-t5 |
