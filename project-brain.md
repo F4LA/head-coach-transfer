@@ -1,12 +1,12 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-10-21, Brent (coach audit rebuilt around client calls; measurement trimmed)_
+_Last updated: 2026-10-23, Brent (KPI sources named; SOP adherence measurement settled; audit checklist cut to five items)_
 
 ## Current phase
 Execution, sprint S4-2026.
 
 ## Status
-The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The role definition (R5-M1) still hasn't started and is still the biggest blocker in the Rock.
+The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). The role definition (R5-M1) still hasn't started and is still the biggest blocker in the Rock.
 
 ## Done
 **Milestones complete**
@@ -22,6 +22,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 
 **Tasks done inside open milestones**
 - Dashboard metrics (R5-M2): t1 first retention dashboard built, Brent has access. https://strong-standard-retention-dashboard.vercel.app/ · t2 Brent reviewed the retention dashboard; he says it is good.
+- KPIs (R5-M3): t1 done. Every proposed KPI has its source named and its status marked. Four of eight can take a first reading today (retention, kickoff upsell, first End-of-Meso upsell, client adherence once its definition is fixed), one is a tracker change away (SOP adherence), one is half built (satisfaction), and two wait on Bernardo (time-to-flag, churn reason tagging). Deliverable: https://docs.google.com/document/d/1_-O1uJgVwfo8jGisfUSxg8kCgqP6HFjHwzctdPP5OfE/edit
 - Shipment dashboard (R5-M12): t1 built (Bernardo). https://fulfillment.strongstandard.com/ · t2 first order of about 50 shirts arrived; t3 Brent operates the shipment system (D-010).
 - Mikari through the updated process (R5-M15): t1 Mikari started on the updated onboarding.
 - End meso call structure (R5-M17): t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
@@ -46,6 +47,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Community planning meeting with Brent (R5-M22-t1). Schedule it.
 
 **Brent**
+- Apply the eight SOP changes from the KPI review to the head coach SOP, together with the Section 8.4 decision already on this list. Part of R5-M24-t1, which is already in progress.
 - Ship the first batch (R5-M12-t4), then confirm arrival (R5-M12-t5).
 - Log Mikari's problems as they appear (R5-M15-t3). Ongoing during her run.
 - Tell the coaching team Brent is taking the role (R5-M25-t1).
@@ -58,7 +60,7 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 - Role definition, Brent's part (R5-M1-t3 onward): waits on Bernardo's R5-M1-t1 and t2.
 - Other head coach data (R5-M2-t3): waits on the role definition (R5-M1).
 - Metrics meeting (R5-M2-t4): waits on Brent's dashboard review (R5-M2-t2) and R5-M2-t3.
-- KPIs (R5-M3): waits on the role definition (R5-M1) and the metrics (R5-M2).
+- KPIs, the decision meeting onward (R5-M3-t2, then t3): waits on the role definition (R5-M1) and the metrics (R5-M2). t1 is done and did not need either (D-017). t2 also needs Bernardo's answers on the head coach dashboard and the Onboarding Measurement Tracker.
 - Adding the agreed metrics (R5-M4-t1): waits on the metrics meeting (R5-M2-t4).
 - Kickoff audit (R5-M10-t1 onward): waits on R5-M10-t7. R5-M10-t6 (audit cadence and picking) waits on t3.
 - Mikari coaching a client (R5-M16): waits on Mikari's run closing (R5-M15-t4).
@@ -81,7 +83,11 @@ Each of these is unsettled. None of them is logged as a decision.
 **Role, metrics and KPIs**
 - The final list of head coach responsibilities (R5-M1-t5) and Bernardo's approval (R5-M1-t6).
 - Which metrics get added, and whether the other head coach data goes into the retention dashboard or a separate one (R5-M2-t4).
-- The KPIs Brent is unsure about, and whether the kickoff upsell rate is added (R5-M3-t2).
+- Whether the SOP adherence KPI is renamed, since what survives on the checklist measures the new kickoff and End-of-Meso process rather than SOP adherence in general (R5-M3-t2).
+- Whether two numbers in the monthly rollup become KPIs: the share of clients flagged overwhelmed, and the refund rate. Both are compared against targets in cadence section 4.4 but neither is a KPI in section 3 (R5-M3-t2).
+- Whether two audit checklist items stay or come off as duplicates: the next End-of-Meso call booked (possibly caught by the Coach Pulse renewals tile) and check-in feedback delivered on time (possibly caught by Everfit response-time data).
+- Where Bernardo is with the head coach dashboard and the Onboarding Measurement Tracker. Both gate a KPI.
+- Whether the Flag System actions log records when a flag was raised and when it was acted on. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
 - Brent's confirmation of the dashboard (R5-M4-t2).
 
 **Kickoff standard**
@@ -92,6 +98,7 @@ Each of these is unsettled. None of them is logged as a decision.
 - Whether the client call rubric lives in one place. It is currently written in full in both head coach SOP 5.3 and Coach Audit System SOP v5 section 4.3.
 - Whether satisfaction requires at least 5 valid responses per coach or 2. v4 said both in different places; v5 aligned them to 5 pending confirmation.
 - Whether the three pre-existing tracker defects get fixed: the LOW/OK/HIGH flag counters, which have never matched the labels the Flag column writes and have always returned 0; the trailing space in "Jackie " in row 11, which will split her history the first time someone types the name without it; and the cells that were already hardcoded over their formulas before this work started.
+- The audit adherence checklist is written in the head coach SOP 5.3 and may also sit in Coach Audit System SOP v5. The cut from nine items to five has to land in every copy, or the duplication gets settled first. Same question as the client call rubric already listed here.
 
 **End meso**
 - What has to change in the end meso call structure (R5-M17-t4).

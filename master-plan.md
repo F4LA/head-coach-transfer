@@ -66,12 +66,12 @@ This Rock is complete when:
 | R5-M2-t5 | Removed by D-008: the dashboard was built first; Brent's review in R5-M2-t2 and his confirmation in R5-M4-t2 replace this validation. | — | — | 0 | 0 | — |
 
 ### R5-M3 — KPIs defined, measurable ones measured
-**Depends on:** R5-M1, R5-M2
+**Depends on:** none (but t2 and t3 wait on R5-M1 and R5-M2, per D-017)
 
 | Task | What gets done | Owner | Type | Work | Wait | Depends on |
 |---|---|---|---|---|---|---|
 | R5-M3-t1 | Go through the proposed KPIs by area, name where each number comes from, and mark each one: measurable today, needs a source built, or cannot be measured yet. | Brent | work | 0.5 | 0 | — |
-| R5-M3-t2 | Decide the KPIs Brent is unsure about and add the kickoff upsell rate. Bernardo attends. | Brent | meeting | 0.2 | 0 | R5-M3-t1 |
+| R5-M3-t2 | Decide the KPIs Brent is unsure about and add the kickoff upsell rate. Bernardo attends. | Brent | meeting | 0.2 | 0 | R5-M3-t1, R5-M1*, R5-M2* |
 | R5-M3-t3 | Start measuring every KPI that can be measured today and take the first reading. No targets yet. | Brent | work | 1 | 0 | R5-M3-t2 |
 
 ### R5-M4 — Head coach dashboard built and confirmed
