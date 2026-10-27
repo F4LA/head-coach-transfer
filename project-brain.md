@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-10-23, Brent (KPI sources named; SOP adherence measurement settled; audit checklist cut to five items)_
+_Last updated: 2026-10-27, Bernardo (D-018; answers to Brent's dashboard and flag questions)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -86,8 +86,8 @@ Each of these is unsettled. None of them is logged as a decision.
 - Whether the SOP adherence KPI is renamed, since what survives on the checklist measures the new kickoff and End-of-Meso process rather than SOP adherence in general (R5-M3-t2).
 - Whether two numbers in the monthly rollup become KPIs: the share of clients flagged overwhelmed, and the refund rate. Both are compared against targets in cadence section 4.4 but neither is a KPI in section 3 (R5-M3-t2).
 - Whether two audit checklist items stay or come off as duplicates: the next End-of-Meso call booked (possibly caught by the Coach Pulse renewals tile) and check-in feedback delivered on time (possibly caught by Everfit response-time data).
-- Where Bernardo is with the head coach dashboard and the Onboarding Measurement Tracker. Both gate a KPI.
-- Whether the Flag System actions log records when a flag was raised and when it was acted on. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
+- The head coach dashboard has not started. Bernardo needs to sit with Brent to agree what it shows; that is the metrics meeting (R5-M2-t4). Bernardo does not remember what the Onboarding Measurement Tracker is; both of them review it and Brent says what he wants to see, at that same meeting. Both still gate a KPI.
+- Whether the Flag System actions log records when a flag was raised and when it was acted on. Bernardo will check the Flag System code to answer. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
 - Brent's confirmation of the dashboard (R5-M4-t2).
 
 **Kickoff standard**
