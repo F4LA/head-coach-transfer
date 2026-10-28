@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-10-27, Bernardo (D-018; answers to Brent's dashboard and flag questions)_
+_Last updated: 2026-10-28, Brent (Mikari's onboarding: ready-to-take-clients defined, three onboarding fixes)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -24,7 +24,8 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Dashboard metrics (R5-M2): t1 first retention dashboard built, Brent has access. https://strong-standard-retention-dashboard.vercel.app/ · t2 Brent reviewed the retention dashboard; he says it is good.
 - KPIs (R5-M3): t1 done. Every proposed KPI has its source named and its status marked. Four of eight can take a first reading today (retention, kickoff upsell, first End-of-Meso upsell, client adherence once its definition is fixed), one is a tracker change away (SOP adherence), one is half built (satisfaction), and two wait on Bernardo (time-to-flag, churn reason tagging). Deliverable: https://docs.google.com/document/d/1_-O1uJgVwfo8jGisfUSxg8kCgqP6HFjHwzctdPP5OfE/edit
 - Shipment dashboard (R5-M12): t1 built (Bernardo). https://fulfillment.strongstandard.com/ · t2 first order of about 50 shirts arrived; t3 Brent operates the shipment system (D-010).
-- Mikari through the updated process (R5-M15): t1 Mikari started on the updated onboarding.
+- Mikari through the updated process (R5-M15): t1 Mikari started on the updated onboarding and given what she needs.
+- Mikari coaching a client (R5-M16): t1 (definition) "ready to take clients" defined in D-019. Confirming Mikari meets it happens on the green light call. Deliverable: https://docs.google.com/document/d/1bm8uMV9YoSJJFwQGN0sgOggkGQMhHJLDGP0gUuK3ivY/edit
 - End meso call structure (R5-M17): t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
 - Quarterly audit (R5-M23): t1 Bernardo sent Brent a video showing how the coach audit is done and gave him access to his Claude project that guides a person through the audit. Brent has since run an audit of the other coaches himself. t2 SOP section for the quarterly coach audit written.
 - Coaching SOP reviewed (R5-M26): t1, t2, t3. t4 removed by D-007.
@@ -33,7 +34,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 
 ## In progress
 - Wait for the first client whose kickoff used the new system, plus one week (R5-M18-t5, Bernardo): started now that the cutover is done. Elapsed time only.
-- Mikari's run (R5-M15-t2): elapsed-time wait while she goes through the onboarding. Alongside it, Brent logs problems as they show up and adjusts the process (R5-M15-t3).
+- Mikari's run (R5-M15): stays open. It closes (t4) once the green light call is held and the next-sprint list is confirmed. The three onboarding fixes are in D-020.
 - Wait for Ceci, Jackie and Miguel to each run one kickoff call on the new system (R5-M10-t7, Brent). Elapsed time only.
 - Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
 - Head coach SOP (R5-M24-t1): Brent started aligning his first draft (https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit), but the role definition (R5-M1) hasn't started. Anything written now has to be checked against the agreed role definition once it exists. The task isn't done until that alignment happens.
@@ -48,6 +49,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 
 **Brent**
 - Apply the eight SOP changes from the KPI review to the head coach SOP, together with the Section 8.4 decision already on this list. Part of R5-M24-t1, which is already in progress.
+- Hold the final review and green light call with Mikari, then R5-M16-t2: assign Mikari her first client and confirm she is coaching.
 - Ship the first batch (R5-M12-t4), then confirm arrival (R5-M12-t5).
 - Log Mikari's problems as they appear (R5-M15-t3). Ongoing during her run.
 - Tell the coaching team Brent is taking the role (R5-M25-t1).
@@ -63,7 +65,7 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 - KPIs, the decision meeting onward (R5-M3-t2, then t3): waits on the role definition (R5-M1) and the metrics (R5-M2). t1 is done and did not need either (D-017). t2 also needs Bernardo's answers on the head coach dashboard and the Onboarding Measurement Tracker.
 - Adding the agreed metrics (R5-M4-t1): waits on the metrics meeting (R5-M2-t4).
 - Kickoff audit (R5-M10-t1 onward): waits on R5-M10-t7. R5-M10-t6 (audit cadence and picking) waits on t3.
-- Mikari coaching a client (R5-M16): waits on Mikari's run closing (R5-M15-t4).
+- Mikari's first client (R5-M16-t2): waits on the green light call, where Brent confirms Mikari meets the D-019 definition (the rest of R5-M16-t1).
 - End meso agreement (R5-M17-t4 onward): waits on Bernardo's audit and proposal (R5-M17-t1, t3).
 - End meso automation (R5-M18): waits on the agreed call structure (R5-M17). t5's wait is already running.
 - End meso presentation for a real client (R5-M19): waits on R5-M18-t4.
@@ -73,6 +75,9 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 
 ## Deferred (not being actively worked)
 None.
+
+## Next sprint list (routed to a later sprint, not deferred)
+- Collect feedback from Mikari after she has been coaching clients for about one to two months, to decide onboarding adjustments for future coaches.
 
 ## Open decisions
 Each of these is unsettled. None of them is logged as a decision.
@@ -110,6 +115,9 @@ Each of these is unsettled. None of them is logged as a decision.
 
 **Community**
 - How the community calls run under Brent, what Gaby takes over, and whether community engagement posts and birthday gifts are implemented and how (R5-M22-t1).
+
+**Coach onboarding**
+- Who runs the feedback conversation with Mikari after one to two months of coaching, and when it goes on the calendar.
 
 **Hand-off**
 - Bernardo giving Brent access and admin rights (R5-M25-t3).
