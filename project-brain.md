@@ -1,12 +1,12 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-10-28, Brent (Mikari's onboarding: ready-to-take-clients defined, three onboarding fixes)_
+_Last updated: 2026-11-02, Brent (head coach SOP v3.0: Bernardo's list merged, audit section aligned to v5 and D-015)_
 
 ## Current phase
 Execution, sprint S4-2026.
 
 ## Status
-The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). The role definition (R5-M1) still hasn't started and is still the biggest blocker in the Rock.
+The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). Bernardo's list of what he does today is written (R5-M1-t1). Next is his t2. The role definition is still the biggest blocker in the Rock.
 
 ## Done
 **Milestones complete**
@@ -21,6 +21,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Coaching SOP updated and in NotebookLM (R5-M27): t1 through t5. Coaching SOP: https://docs.google.com/document/d/1qtl64LvQ3a6vH1JuWokyalHsHUQ0bDRXnF6F8v1TT3o/edit · NotebookLM: https://notebook.google.com/notebook/316280a6-442e-4bea-bdc4-bf91a2f29c90
 
 **Tasks done inside open milestones**
+- Role definition (R5-M1): t1 Bernardo's list of what he does today. https://docs.google.com/document/d/1jdOkUkZSTGmj1padZ6QumAu3EmP99XuvvMEfpS5Hxr0/edit · Bernardo to confirm he considers t1 done.
 - Dashboard metrics (R5-M2): t1 first retention dashboard built, Brent has access. https://strong-standard-retention-dashboard.vercel.app/ · t2 Brent reviewed the retention dashboard; he says it is good.
 - KPIs (R5-M3): t1 done. Every proposed KPI has its source named and its status marked. Four of eight can take a first reading today (retention, kickoff upsell, first End-of-Meso upsell, client adherence once its definition is fixed), one is a tracker change away (SOP adherence), one is half built (satisfaction), and two wait on Bernardo (time-to-flag, churn reason tagging). Deliverable: https://docs.google.com/document/d/1_-O1uJgVwfo8jGisfUSxg8kCgqP6HFjHwzctdPP5OfE/edit
 - Shipment dashboard (R5-M12): t1 built (Bernardo). https://fulfillment.strongstandard.com/ · t2 first order of about 50 shirts arrived; t3 Brent operates the shipment system (D-010).
@@ -37,29 +38,29 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Mikari's run (R5-M15): stays open. It closes (t4) once the green light call is held and the next-sprint list is confirmed. The three onboarding fixes are in D-020.
 - Wait for Ceci, Jackie and Miguel to each run one kickoff call on the new system (R5-M10-t7, Brent). Elapsed time only.
 - Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
-- Head coach SOP (R5-M24-t1): Brent started aligning his first draft (https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit), but the role definition (R5-M1) hasn't started. Anything written now has to be checked against the agreed role definition once it exists. The task isn't done until that alignment happens.
+- Head coach SOP (R5-M24-t1): SOP rewritten as v3.0 (D-021). Bernardo's list, the v5 audit docs and the KPI review changes are merged in. Can't close until the role definition (R5-M1) is approved. https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
 
 ## Next up (startable now, no open dependency)
 
 **Bernardo**
-- Role definition (R5-M1-t1, then t2). Nothing else in the Rock unblocks as much, so this goes first. Brent's part of R5-M1 and the whole back half of the Rock wait on it.
+- Role definition R5-M1-t2: what the role should be doing and isn't. His 'Mentioned, not done today' and 'Notes for later steps' sections are the starting input.
 - Transfer Looms: R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8. Bernardo said some of these may end up delivered another way than a Loom; if so, that is a plan change to log when it happens.
 - End meso audit (R5-M17-t1), then the proposal to Brent (t3). Brent's audit is done and waiting on his.
 - Community planning meeting with Brent (R5-M22-t1). Schedule it.
 
 **Brent**
-- Apply the eight SOP changes from the KPI review to the head coach SOP, together with the Section 8.4 decision already on this list. Part of R5-M24-t1, which is already in progress.
+- Cut the v5 audit SOP and Analysis Template checklist to the D-015 items, and add the two tracker columns.
 - Hold the final review and green light call with Mikari, then R5-M16-t2: assign Mikari her first client and confirm she is coaching.
 - Ship the first batch (R5-M12-t4), then confirm arrival (R5-M12-t5).
 - Log Mikari's problems as they appear (R5-M15-t3). Ongoing during her run.
 - Tell the coaching team Brent is taking the role (R5-M25-t1).
 - List the coaching processes that still need defining (R5-M26-t5).
-- Decide whether the original four coach audit documents are retired or stay live, then rewrite Section 8.4 of the head coach SOP to match.
+- Decide whether the original four coach audit documents are retired or stay live, then rewrite Section 8.4 of the head coach SOP to match (now Section 8.4 of SOP v3.0).
 
 ## Blocked / waiting
 Nothing in this Rock waits on another Rock. Every chain below ends in something listed under Next up or In progress.
 
-- Role definition, Brent's part (R5-M1-t3 onward): waits on Bernardo's R5-M1-t1 and t2.
+- Role definition, Brent's part (R5-M1-t3 onward): waits on Bernardo's R5-M1-t2.
 - Other head coach data (R5-M2-t3): waits on the role definition (R5-M1).
 - Metrics meeting (R5-M2-t4): waits on Brent's dashboard review (R5-M2-t2) and R5-M2-t3.
 - KPIs, the decision meeting onward (R5-M3-t2, then t3): waits on the role definition (R5-M1) and the metrics (R5-M2). t1 is done and did not need either (D-017). t2 also needs Bernardo's answers on the head coach dashboard and the Onboarding Measurement Tracker.
@@ -94,6 +95,10 @@ Each of these is unsettled. None of them is logged as a decision.
 - The head coach dashboard has not started. Bernardo needs to sit with Brent to agree what it shows; that is the metrics meeting (R5-M2-t4). Bernardo does not remember what the Onboarding Measurement Tracker is; both of them review it and Brent says what he wants to see, at that same meeting. Both still gate a KPI.
 - Whether the Flag System actions log records when a flag was raised and when it was acted on. Bernardo will check the Flag System code to answer. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
 - Brent's confirmation of the dashboard (R5-M4-t2).
+- Bernardo's proposed changes tagged Pending approval in head coach SOP v3.0, Section 8.2 item 2 (confirmed at R5-M1-t5).
+- Who maintains each coaching system after the transfer.
+- Which 21-Day Challenge tasks move to Brent.
+- Where flagged-response, Day-2 and upsell-exception logs go until the Head Coach Dashboard exists.
 
 **Kickoff standard**
 - How often the head coach audits kickoff calls, how calls are picked, and how feedback is recorded (R5-M10-t6). D-012 now sets a selection method for the quarterly coach audit, so R5-M10-t6 should not decide it a second way.
@@ -131,7 +136,7 @@ Each of these is unsettled. None of them is logged as a decision.
 - Bernardo's approval of the implemented onboarding changes (R5-M14-t7).
 
 ## Start early
-- **The role definition (R5-M1) is still the biggest blocker, and it hasn't started.** Fourteen later tasks and milestones depend on it, including the head coach SOP Brent has already started drafting and the other head coach data in the metrics work. Bernardo's first two tasks are the gate.
+- **The role definition (R5-M1) is still the biggest blocker. t1 is done; t2 is the gate.** Fourteen later tasks and milestones depend on it, including the head coach SOP Brent has already started drafting and the other head coach data in the metrics work.
 - **The two twenty-day waits (R5-M20-t11, R5-M23-t5) both sit behind the role definition.**
 - **The cutover is done**, so the first-new-system-client wait (R5-M18-t5) is running, and the shirts have arrived, so the first shirt batch can ship.
 - The real critical path is computed by the Operations Dashboard.
