@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-02, Brent (head coach SOP v3.0: Bernardo's list merged, audit section aligned to v5 and D-015)_
+_Last updated: 2026-11-02, Bernardo (confirms his list of what he does today is done, R5-M1-t1)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -21,7 +21,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Coaching SOP updated and in NotebookLM (R5-M27): t1 through t5. Coaching SOP: https://docs.google.com/document/d/1qtl64LvQ3a6vH1JuWokyalHsHUQ0bDRXnF6F8v1TT3o/edit · NotebookLM: https://notebook.google.com/notebook/316280a6-442e-4bea-bdc4-bf91a2f29c90
 
 **Tasks done inside open milestones**
-- Role definition (R5-M1): t1 Bernardo's list of what he does today. https://docs.google.com/document/d/1jdOkUkZSTGmj1padZ6QumAu3EmP99XuvvMEfpS5Hxr0/edit · Bernardo to confirm he considers t1 done.
+- Role definition (R5-M1): t1 Bernardo's list of what he does today. https://docs.google.com/document/d/1jdOkUkZSTGmj1padZ6QumAu3EmP99XuvvMEfpS5Hxr0/edit · Bernardo confirmed t1 is done (D-022).
 - Dashboard metrics (R5-M2): t1 first retention dashboard built, Brent has access. https://strong-standard-retention-dashboard.vercel.app/ · t2 Brent reviewed the retention dashboard; he says it is good.
 - KPIs (R5-M3): t1 done. Every proposed KPI has its source named and its status marked. Four of eight can take a first reading today (retention, kickoff upsell, first End-of-Meso upsell, client adherence once its definition is fixed), one is a tracker change away (SOP adherence), one is half built (satisfaction), and two wait on Bernardo (time-to-flag, churn reason tagging). Deliverable: https://docs.google.com/document/d/1_-O1uJgVwfo8jGisfUSxg8kCgqP6HFjHwzctdPP5OfE/edit
 - Shipment dashboard (R5-M12): t1 built (Bernardo). https://fulfillment.strongstandard.com/ · t2 first order of about 50 shirts arrived; t3 Brent operates the shipment system (D-010).
@@ -44,7 +44,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 
 **Bernardo**
 - Role definition R5-M1-t2: what the role should be doing and isn't. His 'Mentioned, not done today' and 'Notes for later steps' sections are the starting input.
-- Transfer Looms: R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8. Bernardo said some of these may end up delivered another way than a Loom; if so, that is a plan change to log when it happens.
+- Transfer Looms: R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8. Bernardo said some of these may end up delivered another way than a Loom; if so, that is a plan change to log when it happens. For R5-M21-t1 and R5-M21-t8: the flag review has not run since around late August and the call reviews have not run for a long time (D-022), so these Looms describe how they worked when they ran.
 - End meso audit (R5-M17-t1), then the proposal to Brent (t3). Brent's audit is done and waiting on his.
 - Community planning meeting with Brent (R5-M22-t1). Schedule it.
 
@@ -92,6 +92,7 @@ Each of these is unsettled. None of them is logged as a decision.
 - Whether the SOP adherence KPI is renamed, since what survives on the checklist measures the new kickoff and End-of-Meso process rather than SOP adherence in general (R5-M3-t2).
 - Whether two numbers in the monthly rollup become KPIs: the share of clients flagged overwhelmed, and the refund rate. Both are compared against targets in cadence section 4.4 but neither is a KPI in section 3 (R5-M3-t2).
 - Whether two audit checklist items stay or come off as duplicates: the next End-of-Meso call booked (possibly caught by the Coach Pulse renewals tile) and check-in feedback delivered on time (possibly caught by Everfit response-time data).
+- Whether R5-M21-t1 still covers "the two weekly satisfaction questions". Bernardo says the satisfaction questionnaire that review used has been replaced and the process no longer applies (D-022). Dropping it from the task is a plan change.
 - The head coach dashboard has not started. Bernardo needs to sit with Brent to agree what it shows; that is the metrics meeting (R5-M2-t4). Bernardo does not remember what the Onboarding Measurement Tracker is; both of them review it and Brent says what he wants to see, at that same meeting. Both still gate a KPI.
 - Whether the Flag System actions log records when a flag was raised and when it was acted on. Bernardo will check the Flag System code to answer. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
 - Brent's confirmation of the dashboard (R5-M4-t2).
