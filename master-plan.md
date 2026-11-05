@@ -298,7 +298,7 @@ This Rock is complete when:
 | R5-M21-t2 | Write or confirm the SOP section for the flag system review. | Brent | work | 0.3 | 0 | R5-M21-t1, R5-M1* |
 | R5-M21-t3 | Brent runs the flag system review for the first time. Bernardo attends. | Brent | meeting | 0.3 | 5 | R5-M21-t2 |
 | R5-M21-t4 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M21-t3 |
-| R5-M21-t5 | Write the SOP section for cadence monitoring (weekly, monthly, quarterly) using the cadence tracking document. This is a new responsibility. | Brent | work | 0.3 | 0 | R5-M1*, R5-M4* |
+| R5-M21-t5 | Write the SOP section for cadence monitoring (weekly, monthly, quarterly) using the cadence tracking document. This is a new responsibility. | Brent | work | 0.3 | 0 | — |
 | R5-M21-t6 | Brent runs cadence monitoring for the first time. Bernardo attends. | Brent | meeting | 0.2 | 5 | R5-M21-t5 |
 | R5-M21-t7 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M21-t6 |
 | R5-M21-t8 | Record a Loom explaining how the review of the coaches' kickoff and end meso calls is done today. | Bernardo | work | 0.1 | 0 | — |
