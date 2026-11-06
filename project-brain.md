@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-05, Brent (cadence monitoring SOP drafted ahead of the role definition, R5-M21-t5, D-028)_
+_Last updated: 2026-11-06, Bernardo (R5-M17-t1 closed: end-of-meso call audit)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -27,7 +27,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Shipment dashboard (R5-M12): t1 built (Bernardo). https://fulfillment.strongstandard.com/ · t2 first order of about 50 shirts arrived; t3 Brent operates the shipment system (D-010).
 - Mikari through the updated process (R5-M15): t1 Mikari started on the updated onboarding and given what she needs.
 - Mikari coaching a client (R5-M16): t1 (definition) "ready to take clients" defined in D-019. Confirming Mikari meets it happens on the green light call. Deliverable: https://docs.google.com/document/d/1bm8uMV9YoSJJFwQGN0sgOggkGQMhHJLDGP0gUuK3ivY/edit
-- End meso call structure (R5-M17): t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
+- End meso call structure (R5-M17): t1 Bernardo's own audit. Deliverable: https://docs.google.com/document/d/1Aq_qvV-4CgpN1XC7wghpiDNDAcMDNT3-cwFv-lu89Eg/edit · t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
 - Weekly client oversight (R5-M21): t5 cadence monitoring SOP drafted, scoped to the Ongoing Measurement Cadence (D-028). https://docs.google.com/document/d/12q8mfsLaQqhHqyNyRnCWsKqq7014PZpXWD4cM5qdBgE/edit
 - Quarterly audit (R5-M23): t1 Bernardo sent Brent a video showing how the coach audit is done and gave him access to his Claude project that guides a person through the audit. Brent has since run an audit of the other coaches himself. t2 SOP section for the quarterly coach audit written.
 - Coaching SOP reviewed (R5-M26): t1, t2, t3. t4 removed by D-007.
@@ -133,6 +133,11 @@ Each of these is unsettled. None of them is logged as a decision.
 
 **Kickoff standard**
 - How often the head coach audits kickoff calls, how calls are picked, and how feedback is recorded (R5-M10-t6). D-012 now sets a selection method for the quarterly coach audit, so R5-M10-t6 should not decide it a second way.
+- $647 credit: shown proactively in the offer, or only when the client objects.
+- Discount amount and floor for the +3 month contract on objection.
+- Group Coaching prices and where it sits in the final call.
+- Pre-call form: who sends it, when, the rule for non-response, and the waiting slot with its reminder.
+- Payment plans and deposit rules (later session with Brent).
 
 **Coach audit**
 - Whether the audit scores all nine weighted categories, or only the four Core craft categories by judgment with retention, satisfaction, peer input and forum participation taken straight off the data. A sample of two clients may not support one-decimal precision across nine categories.
