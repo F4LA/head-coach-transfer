@@ -1,12 +1,12 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-06, Bernardo (R5-M17-t1 closed: end-of-meso call audit)_
+_Last updated: 2026-11-06, Brent (coach training SOP drafted ahead of the role definition, R5-M20-t5, D-029)_
 
 ## Current phase
 Execution, sprint S4-2026.
 
 ## Status
-The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). Bernardo's list of what he does today (R5-M1-t1) and of what the role should be doing and isn't (R5-M1-t2) are both written in the same document. Brent merged every source into one list of 58 responsibilities in the new Head Coach Role Definition document (R5-M1-t3, D-026), and brought the head coach SOP to v3.1, aligned with the coach contract (D-027). Next is Brent marking each responsibility (R5-M1-t4). The cadence monitoring SOP section is drafted ahead of the role definition and dashboard (D-028). The role definition is still the biggest blocker in the Rock.
+The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). Bernardo's list of what he does today (R5-M1-t1) and of what the role should be doing and isn't (R5-M1-t2) are both written in the same document. Brent merged every source into one list of 58 responsibilities in the new Head Coach Role Definition document (R5-M1-t3, D-026), and brought the head coach SOP to v3.1, aligned with the coach contract (D-027). Next is Brent marking each responsibility (R5-M1-t4). The cadence monitoring SOP section is drafted ahead of the role definition and dashboard (D-028). The role definition is still the biggest blocker in the Rock. The coach training SOP (weekly office hours and every-other-week coach 1:1s) is also drafted ahead of the role definition (D-029).
 
 ## Done
 **Milestones complete**
@@ -29,6 +29,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Mikari coaching a client (R5-M16): t1 (definition) "ready to take clients" defined in D-019. Confirming Mikari meets it happens on the green light call. Deliverable: https://docs.google.com/document/d/1bm8uMV9YoSJJFwQGN0sgOggkGQMhHJLDGP0gUuK3ivY/edit
 - End meso call structure (R5-M17): t1 Bernardo's own audit. Deliverable: https://docs.google.com/document/d/1Aq_qvV-4CgpN1XC7wghpiDNDAcMDNT3-cwFv-lu89Eg/edit · t2 Brent's own audit. Audit: https://docs.google.com/document/d/1PqUDWhBGYVJ2huAh5sEMfwSW-vVEGVqqdw8E6o-jtGk/edit · Brent also drafted two deck templates in the End Meso Project folder: First End of Mesocycle Review Template, Ongoing Mesocycle Review Template.
 - Weekly client oversight (R5-M21): t5 cadence monitoring SOP drafted, scoped to the Ongoing Measurement Cadence (D-028). https://docs.google.com/document/d/12q8mfsLaQqhHqyNyRnCWsKqq7014PZpXWD4cM5qdBgE/edit
+- Weekly team rhythm (R5-M20): t5 coach training SOP drafted, covering weekly office hours and every-other-week coach 1:1s (D-029). https://docs.google.com/document/d/1jz3yv0-ypg9t-DdF3aV1uzJbwPISgm_QGWU6EjowlKY/edit
 - Quarterly audit (R5-M23): t1 Bernardo sent Brent a video showing how the coach audit is done and gave him access to his Claude project that guides a person through the audit. Brent has since run an audit of the other coaches himself. t2 SOP section for the quarterly coach audit written.
 - Coaching SOP reviewed (R5-M26): t1, t2, t3. t4 removed by D-007.
 - The quarterly coach audit SOP section is written, with the roadmap category replaced by a client call review (R5-M23-t2).
@@ -39,7 +40,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Mikari's run (R5-M15): stays open. It closes (t4) once the green light call is held and the next-sprint list is confirmed. The three onboarding fixes are in D-020.
 - Wait for Ceci, Jackie and Miguel to each run one kickoff call on the new system (R5-M10-t7, Brent). Elapsed time only.
 - Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
-- Head coach SOP (R5-M24-t1): SOP rewritten as v3.0 (D-021), then updated in place to v3.1 (D-027): tiers aligned with the coach contract, five items from the merged role list added as Pending approval, Coach Pulse length marked Open. Can't close until the role definition (R5-M1) is approved. https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
+- Head coach SOP (R5-M24-t1): SOP rewritten as v3.0 (D-021), then updated in place to v3.1 (D-027): tiers aligned with the coach contract, five items from the merged role list added as Pending approval, Coach Pulse length marked Open. Then v3.2 (D-029): coach training linked from 5.5. Can't close until the role definition (R5-M1) is approved. https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
 
 ## Next up (startable now, no open dependency)
 
@@ -59,6 +60,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - List the coaching processes that still need defining (R5-M26-t5).
 - Decide whether the original four coach audit documents are retired or stay live, then rewrite Section 8.4 of the head coach SOP to match (now Section 8.4 of SOP v3.0).
 - Set up the cadence log, then schedule the first cadence monitoring run with Bernardo (R5-M21-t6, meeting). Run it on a Friday so the weekly scan is part of it.
+- Schedule the first office hours run with Bernardo attending (R5-M20-t6, meeting), on a Thursday from 11 AM to 12 PM ET. Before it, create the Coach Office Hours calendar event and post the 8 AM poll (SOP: Coach Training, Sections 5 and 7).
 
 ## Blocked / waiting
 Nothing in this Rock waits on another Rock. Every chain below ends in something listed under Next up or In progress.
@@ -75,7 +77,7 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 - End meso presentation for a real client (R5-M19): waits on R5-M18-t4.
 - Community: the SOP section for the calls (R5-M22-t2) waits on the planning meeting (R5-M22-t1) and the role definition; the implementation (R5-M22-t5) waits on the planning meeting.
 - Head coach SOP (R5-M24): t1 is underway but can't close until the role definition (R5-M1) is approved. t2 waits on the end meso structure (R5-M17) and the flag review (R5-M21).
-- Transfer SOP sections (R5-M20 to R5-M23, except the quarterly audit section and the cadence monitoring section (D-028)) and most of the hand-off (R5-M25-t2, t4, t5): wait on the role definition (R5-M1).
+- Transfer SOP sections (R5-M20 to R5-M23, except the quarterly audit section, the cadence monitoring section (D-028) and the coach training section (D-029)) and most of the hand-off (R5-M25-t2, t4, t5): wait on the role definition (R5-M1).
 
 ## Deferred (not being actively worked)
 None.
@@ -130,6 +132,9 @@ Each of these is unsettled. None of them is logged as a decision.
 - How the share of clients flagged overwhelmed and the refund rate are calculated (draft definitions in the cadence monitoring SOP, Section 5).
 - When the monthly Head Coach and COO meeting is held; the monthly cadence review sits a few days before it.
 - Who runs cadence monitoring when the head coach is away.
+- Coach training open items: 1:1 day and time for each pair and the first Week A date; when a new coach counts as fully autonomous and joins the rotation; whether a performance plan's weekly 1:1 replaces the regular slot; who covers office hours when the head coach is away.
+- The Flag System review (Thursday from about 10:30 AM) has to finish by 11 or move to after 12 once it restarts, because office hours runs 11 to 12.
+- Whether "coaching calls" in R5-M20-t2 overlaps with the new every-other-week coach 1:1s.
 
 **Kickoff standard**
 - How often the head coach audits kickoff calls, how calls are picked, and how feedback is recorded (R5-M10-t6). D-012 now sets a selection method for the quarterly coach audit, so R5-M10-t6 should not decide it a second way.

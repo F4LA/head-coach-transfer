@@ -280,7 +280,7 @@ This Rock is complete when:
 | R5-M20-t2 | Write or confirm the SOP section for the Pulse and coaching calls. | Brent | work | 0.3 | 0 | R5-M20-t1, R5-M1* |
 | R5-M20-t3 | Brent runs the Pulse and coaching call for the first time. Bernardo attends. | Brent | meeting | 0.1 | 5 | R5-M20-t2 |
 | R5-M20-t4 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M20-t3 |
-| R5-M20-t5 | Write the SOP section for coach training, meaning the office hours. This is a new responsibility. | Brent | work | 0.3 | 0 | R5-M1* |
+| R5-M20-t5 | Write the SOP section for coach training: weekly office hours and every-other-week 1:1s with each coach. This is a new responsibility. | Brent | work | 0.3 | 0 | — |
 | R5-M20-t6 | Brent runs the office hours for the first time. Bernardo attends. | Brent | meeting | 0.2 | 5 | R5-M20-t5 |
 | R5-M20-t7 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M20-t6 |
 | R5-M20-t8 | Give Brent the existing recorded retention training videos, with a note on which to watch and in what order. | Bernardo | work | 0.2 | 0 | — |
