@@ -243,6 +243,7 @@ This Rock is complete when:
 | R5-M17-t8 | Define what satisfaction is asked live at end meso and how dissatisfaction reaches the head coach. | Brent | meeting | 0.3 | 0 | R5-M17-t4 |
 | R5-M17-t9 | Define the criteria for asking for referrals and a Google review at the second end meso. | Brent | meeting | 0.3 | 0 | R5-M17-t4 |
 | R5-M17-t10 | Review the finished call structure document and approve it. | Bernardo | approval | 0.3 | 0 | R5-M17-t5, R5-M17-t6, R5-M17-t7, R5-M17-t8, R5-M17-t9 |
+| R5-M17-t11 | Write the program satisfaction questionnaire, sent about 3 days before the End-of-Meso call at week 8 and every 16 weeks after, using the scales of the two onboarding questionnaires, and point the coach audit's satisfaction category at it. Questions only; the delivery system is not in the plan. | Brent | work | 0.3 | 0 | — |
 
 ### R5-M18 — End meso automation built and tested
 **Depends on:** R5-M17, R5-M5, R5-M6
