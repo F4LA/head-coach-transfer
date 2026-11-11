@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-07, Brent (program satisfaction questionnaire drafted and coach audit satisfaction scoring re-pointed to it, R5-M17-t11, D-030, D-031)_
+_Last updated: 2026-11-11, Bernardo (confirms next step is R5-M17-t3, not t2; Next up and Blocked corrected)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -46,7 +46,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 
 **Bernardo**
 - Transfer Looms: R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8. Bernardo said some of these may end up delivered another way than a Loom; if so, that is a plan change to log when it happens. For R5-M21-t1 and R5-M21-t8: the flag review has not run since around late August and the call reviews have not run for a long time (D-022), so these Looms describe how they worked when they ran.
-- End meso audit (R5-M17-t1), then the proposal to Brent (t3). Brent's audit is done and waiting on his.
+- R5-M17-t3 Compare both audits and write the proposal for Brent (Bernardo). Depends on R5-M17-t1 and R5-M17-t2, both done. Model: Opus.
 - Community planning meeting with Brent (R5-M22-t1). Schedule it.
 
 **Brent**
@@ -72,7 +72,7 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 - Adding the agreed metrics (R5-M4-t1): waits on the metrics meeting (R5-M2-t4).
 - Kickoff audit (R5-M10-t1 onward): waits on R5-M10-t7. R5-M10-t6 (audit cadence and picking) waits on t3.
 - Mikari's first client (R5-M16-t2): waits on the green light call, where Brent confirms Mikari meets the D-019 definition (the rest of R5-M16-t1).
-- End meso agreement (R5-M17-t4 to t10): waits on Bernardo's audit and proposal (R5-M17-t1, t3).
+- End meso agreement (R5-M17-t4 to t10): waits on Bernardo's proposal (R5-M17-t3).
 - End meso automation (R5-M18): waits on the agreed call structure (R5-M17). t5's wait is already running.
 - End meso presentation for a real client (R5-M19): waits on R5-M18-t4.
 - Community: the SOP section for the calls (R5-M22-t2) waits on the planning meeting (R5-M22-t1) and the role definition; the implementation (R5-M22-t5) waits on the planning meeting.
