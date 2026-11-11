@@ -1,12 +1,12 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-11, Bernardo (confirms next step is R5-M17-t3, not t2; Next up and Blocked corrected)_
+_Last updated: 2026-11-11, Bernardo (D-032 to D-035 from Brent's Loom: written approval of the role, solo cadence run, call recordings task, head coach dashboard meeting)_
 
 ## Current phase
 Execution, sprint S4-2026.
 
 ## Status
-The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). Bernardo's list of what he does today (R5-M1-t1) and of what the role should be doing and isn't (R5-M1-t2) are both written in the same document. Brent merged every source into one list of 58 responsibilities in the new Head Coach Role Definition document (R5-M1-t3, D-026), and brought the head coach SOP to v3.1, aligned with the coach contract (D-027). Next is Brent marking each responsibility (R5-M1-t4). The cadence monitoring SOP section is drafted ahead of the role definition and dashboard (D-028). The role definition is still the biggest blocker in the Rock. The coach training SOP (weekly office hours and every-other-week coach 1:1s) is also drafted ahead of the role definition (D-029). The program satisfaction questionnaire (week 8, then every 16 weeks) is drafted ahead of the End-of-Meso agreement, and the coach audit now scores satisfaction from it (D-030, D-031).
+The kickoff automation is live: the cutover to the new system happened, so new clients now come in through it. The shipment dashboard is built. The quarterly coach audit has been handed to Brent. The metrics work was restructured around the retention dashboard Bernardo already built (D-008), and the two community meetings were merged into one (D-009). The KPI sources are now named and the SOP adherence measure is settled, ahead of the role definition rather than after it (D-017). Bernardo's list of what he does today (R5-M1-t1) and of what the role should be doing and isn't (R5-M1-t2) are both written in the same document. Brent merged every source into one list of 58 responsibilities in the new Head Coach Role Definition document (R5-M1-t3, D-026), and brought the head coach SOP to v3.1, aligned with the coach contract (D-027). Next is Brent marking each responsibility (R5-M1-t4). The cadence monitoring SOP section is drafted ahead of the role definition and dashboard (D-028). The role definition is still the biggest blocker in the Rock. The coach training SOP (weekly office hours and every-other-week coach 1:1s) is also drafted ahead of the role definition (D-029). The program satisfaction questionnaire (week 8, then every 16 weeks) is drafted ahead of the End-of-Meso agreement, and the coach audit now scores satisfaction from it (D-030, D-031). After Brent's Loom, the role agreement meeting was dropped for a written review by Bernardo (D-032), Brent runs cadence monitoring alone (D-033), getting the call recordings logged and accessible became a task (D-034), and the metrics meeting became the head coach dashboard meeting (D-035).
 
 ## Done
 **Milestones complete**
@@ -48,6 +48,8 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Transfer Looms: R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8. Bernardo said some of these may end up delivered another way than a Loom; if so, that is a plan change to log when it happens. For R5-M21-t1 and R5-M21-t8: the flag review has not run since around late August and the call reviews have not run for a long time (D-022), so these Looms describe how they worked when they ran.
 - R5-M17-t3 Compare both audits and write the proposal for Brent (Bernardo). Depends on R5-M17-t1 and R5-M17-t2, both done. Model: Opus.
 - Community planning meeting with Brent (R5-M22-t1). Schedule it.
+- R5-M21-t12 Get Gaby logging the kickoff and End-of-Meso recordings again in the Audit Hub sheet, and fix access so Brent can open them without asking the coaches (D-034). Model: Opus.
+- Head coach dashboard meeting with Brent (R5-M2-t4, D-035). Agree everything the dashboard shows; include a look at the Onboarding Measurement Tracker.
 
 **Brent**
 - Role definition R5-M1-t4: in the Head Coach Role Definition document, mark each item kept, improved, dropped or added, give it a cadence, owner and executor, and review Brent's Overview draft against the list. Start with the document's "Questions this merge raised" and the 14 items tagged SOP only. This is the gate for most of the Rock.
@@ -59,17 +61,15 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Tell the coaching team Brent is taking the role (R5-M25-t1).
 - List the coaching processes that still need defining (R5-M26-t5).
 - Decide whether the original four coach audit documents are retired or stay live, then rewrite Section 8.4 of the head coach SOP to match (now Section 8.4 of SOP v3.0).
-- Set up the cadence log, then schedule the first cadence monitoring run with Bernardo (R5-M21-t6, meeting). Run it on a Friday so the weekly scan is part of it.
+- Set up the cadence log, then run cadence monitoring for the first time on his own (R5-M21-t6, D-033). Run it on a Friday so the weekly scan is part of it.
 - Schedule the first office hours run with Bernardo attending (R5-M20-t6, meeting), on a Thursday from 11 AM to 12 PM ET. Before it, create the Coach Office Hours calendar event and post the 8 AM poll (SOP: Coach Training, Sections 5 and 7).
 
 ## Blocked / waiting
 Nothing in this Rock waits on another Rock. Every chain below ends in something listed under Next up or In progress.
 
-- Role definition, the agreement meeting and approval (R5-M1-t5, t6): wait on Brent's R5-M1-t4.
-- Other head coach data (R5-M2-t3): waits on the role definition (R5-M1).
-- Metrics meeting (R5-M2-t4): waits on Brent's dashboard review (R5-M2-t2) and R5-M2-t3.
+- Role definition approval (R5-M1-t6, Bernardo, in writing; t5 removed by D-032): waits on Brent's R5-M1-t4. Brent's Loom says the head coach SOP is ready for Bernardo's review; confirm at the start of the t6 chat whether t4 is complete.
 - KPIs, the decision meeting onward (R5-M3-t2, then t3): waits on the role definition (R5-M1) and the metrics (R5-M2). t1 is done and did not need either (D-017). t2 also needs Bernardo's answers on the head coach dashboard and the Onboarding Measurement Tracker.
-- Adding the agreed metrics (R5-M4-t1): waits on the metrics meeting (R5-M2-t4).
+- Building the head coach dashboard (R5-M4-t1): waits on the head coach dashboard meeting (R5-M2-t4).
 - Kickoff audit (R5-M10-t1 onward): waits on R5-M10-t7. R5-M10-t6 (audit cadence and picking) waits on t3.
 - Mikari's first client (R5-M16-t2): waits on the green light call, where Brent confirms Mikari meets the D-019 definition (the rest of R5-M16-t1).
 - End meso agreement (R5-M17-t4 to t10): waits on Bernardo's proposal (R5-M17-t3).
@@ -87,7 +87,7 @@ None.
 
 ## Raised in R5-M1-t2, not in the Master Plan yet
 Listed in full under "New tasks raised in this chat" in the t1 document. Bernardo prefers not to add small tasks to the plan. None is added until someone decides it belongs in the plan; each one added is a plan change (Decision Log row, Master Plan edit, JSON fragment to the Sprint project).
-- Find where kickoff and End-of-Meso calls are recorded and automate them into one place and the Head Coach dashboard (Bernardo).
+- Automate the kickoff and End-of-Meso recordings into the Head Coach dashboard (Bernardo). The first step, getting them logged again and accessible, is now R5-M21-t12 (D-034); the dashboard part is scoped in R5-M2-t4.
 - Notes system for calls and Coach Pulse issues (Bernardo and Brent).
 - Rebuild the Flag System dashboard after logic and rules are agreed (Bernardo, D-025).
 - Rebuild the Coach Portal and Active Client Roster (Bernardo).
@@ -104,16 +104,16 @@ Each of these is unsettled. None of them is logged as a decision.
 - The cut order inside this Rock is still "Proposed, to be confirmed together with every Rock visible side by side." Nothing in it is settled. The Rock itself not being cuttable IS settled (see D-002).
 
 **Role, metrics and KPIs**
-- The final list of head coach responsibilities (R5-M1-t5) and Bernardo's approval (R5-M1-t6).
-- Which metrics get added, and whether the other head coach data goes into the retention dashboard or a separate one (R5-M2-t4).
+- The final list of head coach responsibilities and Bernardo's written approval (R5-M1-t6).
+- What the head coach dashboard shows, and whether it extends the retention dashboard or is a separate one (R5-M2-t4).
 - Whether the SOP adherence KPI is renamed, since what survives on the checklist measures the new kickoff and End-of-Meso process rather than SOP adherence in general (R5-M3-t2).
 - Whether two numbers in the monthly rollup become KPIs: the share of clients flagged overwhelmed, and the refund rate. Both are compared against targets in cadence section 4.4 but neither is a KPI in section 3 (R5-M3-t2).
 - Whether two audit checklist items stay or come off as duplicates: the next End-of-Meso call booked (possibly caught by the Coach Pulse renewals tile) and check-in feedback delivered on time (possibly caught by Everfit response-time data).
 - Whether R5-M21-t1 still covers "the two weekly satisfaction questions". Bernardo says the satisfaction questionnaire that review used has been replaced and the process no longer applies (D-022). Dropping it from the task is a plan change.
-- The head coach dashboard has not started. Bernardo needs to sit with Brent to agree what it shows; that is the metrics meeting (R5-M2-t4). Bernardo does not remember what the Onboarding Measurement Tracker is; both of them review it and Brent says what he wants to see, at that same meeting. Both still gate a KPI.
+- The head coach dashboard has not started. Bernardo needs to sit with Brent to agree what it shows; that is the head coach dashboard meeting (R5-M2-t4, D-035). Bernardo does not remember what the Onboarding Measurement Tracker is; both of them review it and Brent says what he wants to see, at that same meeting. Both still gate a KPI.
 - Whether the Flag System actions log records when a flag was raised and when it was acted on. Bernardo will check the Flag System code to answer. If it does, time-to-flag can be measured now and stops waiting on the head coach dashboard.
 - Brent's confirmation of the dashboard (R5-M4-t2).
-- Bernardo's proposed changes and the five items from the merged role list tagged Pending approval in head coach SOP v3.1, Section 8.2 item 2 (confirmed at R5-M1-t5).
+- Bernardo's proposed changes and the five items from the merged role list tagged Pending approval in head coach SOP v3.1, Section 8.2 item 2 (confirmed at R5-M1-t6).
 - Who maintains each coaching system after the transfer.
 - Which 21-Day Challenge tasks move to Brent.
 - Where flagged-response, Day-2 and upsell-exception logs go until the Head Coach Dashboard exists.

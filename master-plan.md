@@ -51,8 +51,8 @@ This Rock is complete when:
 | R5-M1-t2 | Add what the role should be doing and is not getting done today for lack of time. | Bernardo | work | 0.3 | 0 | R5-M1-t1 |
 | R5-M1-t3 | Merge Bernardo's list with Brent's four areas and the operational list, remove duplicates, and add what came up on the September 22 call. | Brent | work | 0.5 | 0 | R5-M1-t2 |
 | R5-M1-t4 | For each responsibility decide kept, improved, dropped or added, give it a cadence, say who owns it and who executes it, and review Brent's Overview draft against the list. | Brent | work | 0.5 | 0 | R5-M1-t3 |
-| R5-M1-t5 | Brent and Bernardo agree the final list of responsibilities. Bernardo attends. | Brent | meeting | 0.1 | 0 | R5-M1-t3, R5-M1-t4 |
-| R5-M1-t6 | Bernardo reviews the agreed role definition and approves it. | Bernardo | approval | 0.3 | 0 | R5-M1-t5 |
+| R5-M1-t5 | Removed by D-032: Bernardo reviews and comments in writing in R5-M1-t6 instead of a meeting. | — | — | 0 | 0 | — |
+| R5-M1-t6 | Bernardo reviews the responsibilities in the head coach SOP, leaves comments in the document for Brent, and approves the role definition in writing. | Bernardo | approval | 0.3 | 0 | R5-M1-t4 |
 
 ### R5-M2 — Dashboard metrics agreed and defined
 **Depends on:** none
@@ -61,8 +61,8 @@ This Rock is complete when:
 |---|---|---|---|---|---|---|
 | R5-M2-t1 | Build a first retention dashboard and give Brent access. | Bernardo | work | 2 | 0 | — |
 | R5-M2-t2 | Review the retention dashboard: say for each metric whether the definition and the calculation are right, list the retention metrics that are missing and how each should be measured, and send Bernardo the detail in writing. | Brent | work | 0.5 | 0 | R5-M2-t1 |
-| R5-M2-t3 | List what other data the head coach role needs beyond retention. | Brent | work | 0.3 | 0 | R5-M1* |
-| R5-M2-t4 | Decide which metrics get added and whether the other head coach data goes into the retention dashboard or a separate one. Bernardo attends. | Brent | meeting | 0.2 | 0 | R5-M2-t2, R5-M2-t3 |
+| R5-M2-t3 | Removed by D-035: folded into the R5-M2-t4 meeting. | — | — | 0 | 0 | — |
+| R5-M2-t4 | Head coach dashboard meeting: agree everything the dashboard must show so Brent can do the role as easily as possible (metrics and the other data the role needs, such as call recordings and flags), and whether it extends the retention dashboard or is a separate one. Bernardo attends. | Brent | meeting | 0.2 | 0 | R5-M2-t2 |
 | R5-M2-t5 | Removed by D-008: the dashboard was built first; Brent's review in R5-M2-t2 and his confirmation in R5-M4-t2 replace this validation. | — | — | 0 | 0 | — |
 
 ### R5-M3 — KPIs defined, measurable ones measured
@@ -300,12 +300,13 @@ This Rock is complete when:
 | R5-M21-t3 | Brent runs the flag system review for the first time. Bernardo attends. | Brent | meeting | 0.3 | 5 | R5-M21-t2 |
 | R5-M21-t4 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M21-t3 |
 | R5-M21-t5 | Write the SOP section for cadence monitoring (weekly, monthly, quarterly) using the cadence tracking document. This is a new responsibility. | Brent | work | 0.3 | 0 | — |
-| R5-M21-t6 | Brent runs cadence monitoring for the first time. Bernardo attends. | Brent | meeting | 0.2 | 5 | R5-M21-t5 |
+| R5-M21-t6 | Brent runs cadence monitoring for the first time, on his own (D-033). | Brent | work | 0.2 | 5 | R5-M21-t5 |
 | R5-M21-t7 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M21-t6 |
 | R5-M21-t8 | Record a Loom explaining how the review of the coaches' kickoff and end meso calls is done today. | Bernardo | work | 0.1 | 0 | — |
 | R5-M21-t9 | Write or confirm the SOP section for the review of kickoff and end meso calls. | Brent | work | 0.3 | 0 | R5-M21-t8, R5-M1*, R5-M10*, R5-M11*, R5-M17* |
-| R5-M21-t10 | Brent runs the review of kickoff and end meso calls for the first time. Bernardo attends. | Brent | meeting | 0.4 | 5 | R5-M21-t9 |
+| R5-M21-t10 | Brent runs the review of kickoff and end meso calls for the first time. Bernardo attends. | Brent | meeting | 0.4 | 5 | R5-M21-t9, R5-M21-t12 |
 | R5-M21-t11 | Correct the SOP section with what the first run showed. | Brent | work | 0.3 | 0 | R5-M21-t10 |
+| R5-M21-t12 | Get Gaby filling the Kickoff & Meso Client Calls Audit Hub sheet again with every kickoff and End-of-Meso recording link, and fix access so Brent can open any recording without requesting it from the coach (D-034). | Bernardo | work | 0.3 | 0 | — |
 
 ### R5-M22 — Community
 **Depends on:** none
@@ -391,11 +392,11 @@ This Rock is complete when:
 Order and dependencies only. The dashboard computes when each of these lands, using both people's capacity across all their Rocks.
 
 ### Bernardo
-1. **Role definition (R5-M1):** t1, then t2. This unblocks more of the Rock than anything else, so it goes first. Later: t6, approving the agreed definition after Brent's meeting.
-2. **Dashboard metrics (R5-M2, R5-M4):** M2-t1 is the first retention dashboard. After the metrics meeting (M2-t4), M4-t1 adds the agreed metrics so Brent can confirm in M4-t2.
+1. **Role definition (R5-M1):** t1, then t2. This unblocks more of the Rock than anything else, so it goes first. Later: t6, reviewing the responsibilities in Brent's head coach SOP, commenting and approving in writing once Brent finishes t4 (D-032).
+2. **Dashboard metrics (R5-M2, R5-M4):** M2-t1 is the first retention dashboard. After the head coach dashboard meeting (M2-t4), M4-t1 builds what was agreed so Brent can confirm in M4-t2.
 3. **Kickoff chain (R5-M6, R5-M7):** M6-t1 finishes the kickoff presentation builder, then M7-t1 creates the fictional clients, then M7-t2 tests it. M7-t3 hands to Brent, which is what releases the whole SOP and calibration chain. After that M7-t4, t5, t6, and finally t8, the cutover.
 4. **Roadmap builder (R5-M5):** t1, the production run with a test client, pilot from Brent's account. Needed before M7-t4 and before the end meso build.
-5. **Transfer Looms (R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8, R5-M23-t1):** all free of dependencies and all gating Brent's SOP writing. Cheap to do, expensive to delay.
+5. **Transfer Looms (R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8, R5-M23-t1):** all free of dependencies and all gating Brent's SOP writing. Cheap to do, expensive to delay. Alongside R5-M21-t8, **R5-M21-t12** gets the call recordings logged again and opens access for Brent (D-034).
 6. **Community planning meeting (R5-M22-t1):** one meeting with Brent, schedule it. Then t5 implements what it agreed.
 7. **Shipment dashboard (R5-M12-t1):** three days of build, feeding t3 and t4.
 8. **Current onboarding reviewed (R5-M13-t1):** his own review of the current coach onboarding, which feeds the comparison meeting with Brent in t3.
@@ -405,13 +406,13 @@ Order and dependencies only. The dashboard computes when each of these lands, us
 12. **Access (R5-M25-t3)** once Brent has listed what he is missing. **R5-M12-t6** if the first shipment shows problems.
 
 ### Brent
-1. **Role definition (R5-M1):** t3 merges the lists, t4 marks each responsibility, t5 is the agreement meeting with Bernardo. Everything in projects P6 and P7 waits on this.
+1. **Role definition (R5-M1):** t3 merges the lists, t4 marks each responsibility, then Bernardo reviews and approves in writing (t6; the t5 meeting was removed by D-032). Everything in projects P6 and P7 waits on this.
 2. **Startable immediately in parallel:** the upsell meeting (R5-M11-t1), confirming the shirts arrived (R5-M12-t2), his own coach onboarding review (R5-M13-t2), his own end meso audit (R5-M17-t2), telling the team he is taking the role (R5-M25-t1), and reading the coaching SOP (R5-M26-t1). R5-M10-t7 is an elapsed-time wait; the audit (R5-M10-t1 onward) follows it.
-3. **Metrics and KPIs:** R5-M2-t2 reviews the retention dashboard, startable now. R5-M2-t3 lists other head coach data after the role definition. Then the R5-M2-t4 meeting, then R5-M3-t1, t2, t3 once the role definition and the metrics are both done. R5-M4-t2 confirms the dashboard.
+3. **Metrics and KPIs:** R5-M2-t2 reviews the retention dashboard, startable now. Then the R5-M2-t4 head coach dashboard meeting, which also covers the other head coach data (D-035), then R5-M3-t1, t2, t3 once the role definition and the metrics are both done. R5-M4-t2 confirms the dashboard.
 4. **Kickoff standard (R5-M7-t3, R5-M8, R5-M9):** test the builder from his own account, write the competency questionnaire, update the onboarding and kickoff SOP, load it into NotebookLM, then run the calibration call and record who passed. R5-M7-t7 waits for the coaches' mock-call Looms.
 5. **Coach onboarding (R5-M13-t3, R5-M14, R5-M15, R5-M16):** the comparison meeting, then the two scoping meetings, the training materials, the training SOP, the rest of the changes and the learning path. Then start Mikari, work her problems as they appear, close the run, and get her a first client.
 6. **End meso (R5-M17):** t4 agrees the changes, then t5, t6, t7 in parallel, plus the t8 and t9 meetings. R5-M19-t1 reviews the first produced presentation.
-7. **Transfer (R5-M20, R5-M21, R5-M22, R5-M23):** for each responsibility the pattern is the same: write the SOP section, run it once with Bernardo present, correct the section. The two longest waits sit here, in R5-M20-t11 and R5-M23-t5.
+7. **Transfer (R5-M20, R5-M21, R5-M22, R5-M23):** for each responsibility the pattern is the same: write the SOP section, run it once with Bernardo present, correct the section. Cadence monitoring is the exception: Brent runs it alone (D-033). The two longest waits sit here, in R5-M20-t11 and R5-M23-t5.
 8. **SOPs and hand-off (R5-M24, R5-M25, R5-M26, R5-M27):** the head coach SOP draws on the transfer work and closes last. R5-M25-t5 decides what Bernardo stops doing, which gates telling the team who to go to for what. The coaching SOP review and update run their own line, with R5-M27-t2 and t3 waiting on the new onboarding SOP and the training SOP. The joint findings meeting (R5-M26-t4) was dropped by D-007.
 
 ## Cut order if capacity slips
