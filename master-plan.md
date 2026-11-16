@@ -52,7 +52,7 @@ This Rock is complete when:
 | R5-M1-t3 | Merge Bernardo's list with Brent's four areas and the operational list, remove duplicates, and add what came up on the September 22 call. | Brent | work | 0.5 | 0 | R5-M1-t2 |
 | R5-M1-t4 | For each responsibility decide kept, improved, dropped or added, give it a cadence, say who owns it and who executes it, and review Brent's Overview draft against the list. | Brent | work | 0.5 | 0 | R5-M1-t3 |
 | R5-M1-t5 | Removed by D-032: Bernardo reviews and comments in writing in R5-M1-t6 instead of a meeting. | — | — | 0 | 0 | — |
-| R5-M1-t6 | Bernardo reviews the responsibilities in the head coach SOP, leaves comments in the document for Brent, and approves the role definition in writing. | Bernardo | approval | 0.3 | 0 | R5-M1-t4 |
+| R5-M1-t6 | Bernardo reviews the head coach SOP in a separate changes document, Brent answers each change and rewrites the SOP as v4.0, and Bernardo checks it and approves the role definition in writing (D-037). | Bernardo | approval | 0.3 | 0 | R5-M1-t4 |
 
 ### R5-M2 — Dashboard metrics agreed and defined
 **Depends on:** none
@@ -313,12 +313,12 @@ This Rock is complete when:
 
 | Task | What gets done | Owner | Type | Work | Wait | Depends on |
 |---|---|---|---|---|---|---|
-| R5-M22-t1 | One planning meeting with Brent on community: Bernardo shows the systems he uses today to organise the community calls and what he does, how Brent can ask Gaby for help so it goes into the SOP, and they discuss community engagement ideas and birthday gift ideas and agree action steps. Whether engagement posts and birthday gifts are implemented, and how, is decided here. Brent attends. | Bernardo | meeting | 0.3 | 0 | — |
-| R5-M22-t2 | Write the SOP section for organising the community calls. | Brent | work | 0.3 | 0 | R5-M22-t1, R5-M1* |
+| R5-M22-t1 | Removed by D-042: the community calls were agreed in the head coach SOP review instead of a meeting. | — | — | 0 | 0 | — |
+| R5-M22-t2 | Write the SOP section for organising the community calls. | Brent | work | 0.3 | 0 | R5-M1* |
 | R5-M22-t3 | Brent organises the first community calls his own way, with Gaby handling the posting. | Brent | work | 0.2 | 7 | R5-M22-t2 |
 | R5-M22-t4 | Removed by D-009: merged into R5-M22-t1. | — | — | 0 | 0 | — |
-| R5-M22-t5 | Implement what R5-M22-t1 agreed for community engagement: message templates for Gaby, how the information is collected, and the systems behind it. | Bernardo | work | 0.5 | 0 | R5-M22-t1 |
-| R5-M22-t6 | Write the SOP section for community engagement as agreed in R5-M22-t1. | Brent | work | 0.3 | 0 | R5-M22-t5, R5-M1* |
+| R5-M22-t5 | Implement what Brent decides for community engagement (D-042): message templates for Gaby, how the information is collected, and the systems behind it. | Bernardo | work | 0.5 | 0 | R5-M22-t2 |
+| R5-M22-t6 | Write the SOP section for community engagement as Brent decided it (D-042). | Brent | work | 0.3 | 0 | R5-M22-t5, R5-M1* |
 | R5-M22-t7 | Brent runs community engagement for the first time. | Brent | work | 0.2 | 7 | R5-M22-t6 |
 
 ### R5-M23 — Quarterly audit and reporting
@@ -392,12 +392,12 @@ This Rock is complete when:
 Order and dependencies only. The dashboard computes when each of these lands, using both people's capacity across all their Rocks.
 
 ### Bernardo
-1. **Role definition (R5-M1):** t1, then t2. This unblocks more of the Rock than anything else, so it goes first. Later: t6, reviewing the responsibilities in Brent's head coach SOP, commenting and approving in writing once Brent finishes t4 (D-032).
+1. **Role definition (R5-M1):** t1, then t2. This unblocks more of the Rock than anything else, so it goes first. Later: t6, reviewing Brent's head coach SOP in a changes document, then approving in writing once Brent's v4.0 rewrite applies every change (D-032, D-037).
 2. **Dashboard metrics (R5-M2, R5-M4):** M2-t1 is the first retention dashboard. After the head coach dashboard meeting (M2-t4), M4-t1 builds what was agreed so Brent can confirm in M4-t2.
 3. **Kickoff chain (R5-M6, R5-M7):** M6-t1 finishes the kickoff presentation builder, then M7-t1 creates the fictional clients, then M7-t2 tests it. M7-t3 hands to Brent, which is what releases the whole SOP and calibration chain. After that M7-t4, t5, t6, and finally t8, the cutover.
 4. **Roadmap builder (R5-M5):** t1, the production run with a test client, pilot from Brent's account. Needed before M7-t4 and before the end meso build.
 5. **Transfer Looms (R5-M20-t1, R5-M20-t8, R5-M21-t1, R5-M21-t8, R5-M23-t1):** all free of dependencies and all gating Brent's SOP writing. Cheap to do, expensive to delay. Alongside R5-M21-t8, **R5-M21-t12** gets the call recordings logged again and opens access for Brent (D-034).
-6. **Community planning meeting (R5-M22-t1):** one meeting with Brent, schedule it. Then t5 implements what it agreed.
+6. **Community engagement (R5-M22-t5):** implements what Brent decides once he writes the community SOP section (D-042). The planning meeting was removed.
 7. **Shipment dashboard (R5-M12-t1):** three days of build, feeding t3 and t4.
 8. **Current onboarding reviewed (R5-M13-t1):** his own review of the current coach onboarding, which feeds the comparison meeting with Brent in t3.
 9. **End meso (R5-M17-t1, R5-M17-t3):** his own audit of the current deck and call structure, then the proposal to Brent. Later, M17-t10 approves the finished document.
