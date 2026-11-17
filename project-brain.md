@@ -43,7 +43,6 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
 - Role definition approval (R5-M1-t6): Bernardo's changes document is agreed (D-037) and Brent's v4.0 of the head coach SOP is drafted (D-044). v4.0 is in the SOP doc; next, Bernardo, with Sue, checks it against the 51 changes and approves in writing. Changes doc: https://docs.google.com/document/d/1WM9y8aOW_hw48XRG20ncAio-tTPE33Alc3l6-l8IoMA/edit
 - Head coach SOP (R5-M24-t1): SOP rewritten as v3.0 (D-021), then updated in place to v3.1 (D-027): tiers aligned with the coach contract, five items from the merged role list added as Pending approval, Coach Pulse length marked Open. Then v3.2 (D-029): coach training linked from 5.5. Then v3.3 (D-031): the coach audit's satisfaction scoring in 5.3 points at the new questionnaires. v4.0 is drafted, applying the R5-M1-t6 changes (D-037, D-044), and goes into the doc in place. Can't close until the role definition (R5-M1) is approved. https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
-
 - End meso agreement (R5-M17-t4): Brent commented on Bernardo's proposal (D-045). Bernardo reviews the comments with Sue, then they agree the changes in a call that also covers the pricing session (proposal Part 4: end-of-contract price, payment-plan rule, the anchor, bonus values, 3-month clients). No separate task for the pricing session.
 
 ## Next up (startable now, no open dependency)
