@@ -1,6 +1,6 @@
 # Project Brain — R5 Head coach role defined, improved and transferred to Brent
 The current state in one page. Updated at the close of every task chat via Claude Code.
-_Last updated: 2026-11-18, Bernardo (old SOP cleanup list done: Coaching OS, M4 note, coaching SOP, tracker columns)_
+_Last updated: 2026-11-18, Bernardo (R5-M24-t1 done: companion docs match head coach SOP v4.0)_
 
 ## Current phase
 Execution, sprint S4-2026.
@@ -33,6 +33,7 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Weekly team rhythm (R5-M20): t5 coach training SOP drafted, covering weekly office hours and every-other-week coach 1:1s (D-029). https://docs.google.com/document/d/1jz3yv0-ypg9t-DdF3aV1uzJbwPISgm_QGWU6EjowlKY/edit
 - Quarterly audit (R5-M23): t1 Bernardo sent Brent a video showing how the coach audit is done and gave him access to his Claude project that guides a person through the audit. Brent has since run an audit of the other coaches himself. t2 SOP section for the quarterly coach audit written.
 - Coaching SOP reviewed (R5-M26): t1, t2, t3. t4 removed by D-007.
+- Head coach SOP (R5-M24): t1 done. The SOP went from v3.0 (D-021) to v4.0, approved with the role definition (D-052), and every companion doc now matches v4.0: Brent updated the Coach Audit System SOP v5.2 and Analysis Template, the Coach Pulse HC Weekly Workflow, the Coach Training SOP and the Cadence Monitoring SOP; Bernardo and Sue updated the Flag System HC Weekly Workflow, the Overview Coaching OS v1.3, a note in M4, the coaching SOP and the Coaches Review Tracker v5 columns. https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
 - The quarterly coach audit SOP section is written, with the roadmap category replaced by a client call review (R5-M23-t2).
 - The coach audit documents are reissued as v5 in the Rock folder: audit SOP, Analysis Template, Evaluation Template and Coaches Review Tracker. The audit SOP, Analysis Template and Evaluation Template are updated in place to v5.1 for satisfaction scoring, and the tracker's satisfaction header has a note on the conversion (D-031).
 
@@ -41,7 +42,6 @@ The kickoff automation is live: the cutover to the new system happened, so new c
 - Mikari's run (R5-M15): stays open. It closes (t4) once the green light call is held and the next-sprint list is confirmed. The three onboarding fixes are in D-020.
 - Wait for Ceci, Jackie and Miguel to each run one kickoff call on the new system (R5-M10-t7, Brent). Elapsed time only.
 - Correct the quarterly coach audit SOP section with what the audit showed (R5-M23-t3, Brent).
-- Head coach SOP (R5-M24-t1): SOP rewritten as v3.0 (D-021), then updated in place to v3.1 (D-027): tiers aligned with the coach contract, five items from the merged role list added as Pending approval, Coach Pulse length marked Open. Then v3.2 (D-029): coach training linked from 5.5. Then v3.3 (D-031): the coach audit's satisfaction scoring in 5.3 points at the new questionnaires. v4.0 applies the R5-M1-t6 changes (D-037, D-044) and is approved with the role definition (D-052). It closes once the companion docs match v4.0: Brent updates the Coach Audit System SOP v5 and Analysis Template, the Coach Pulse HC Weekly Workflow, the Coach Training SOP and the Cadence Monitoring SOP (Bernardo asked him on Slack). The Flag System HC Weekly Workflow is already updated. The rest of the old SOP cleanup list is done: Overview Coaching OS v1.3 (Coach Pulse Friday 8:30 AM ET, 30 minutes; regular and extra 1:1s), a v4.0 note at the top of M4, the coaching SOP's availability form and Coach Pulse lines, and the two SOP adherence columns in the Coaches Review Tracker v5 (Q and R, kept apart from the Final Score). https://docs.google.com/document/d/1Y_iclhG6LG6AfUq6-Je8IA9jV_OrXcR_MeCxNTsp0ds/edit
 
 ## Next up (startable now, no open dependency)
 
@@ -84,7 +84,7 @@ Nothing in this Rock waits on another Rock. Every chain below ends in something 
 - End meso automation (R5-M18): waits on the agreed call structure (R5-M17). t5's wait is already running.
 - End meso presentation for a real client (R5-M19): waits on R5-M18-t4.
 - Community: the SOP section for the calls (R5-M22-t2) is startable now that the role definition is approved (D-052); the engagement implementation (R5-M22-t5) waits on Brent's decision in that section (D-042).
-- Head coach SOP (R5-M24): t1 closes once the companion docs match v4.0 (see In progress). t2 waits on the end meso structure (R5-M17) and the flag review (R5-M21).
+- Head coach SOP (R5-M24): t1 is done. t2 waits on the end meso structure (R5-M17) and the flag review (R5-M21).
 - Transfer SOP sections (R5-M20 to R5-M23, except the quarterly audit section, the cadence monitoring section (D-028) and the coach training section (D-029)) and most of the hand-off (R5-M25-t2, t4, t5): startable now that the role definition is approved (D-052), unless they wait on something else.
 
 ## Deferred (not being actively worked)
