@@ -252,7 +252,7 @@ This Rock is complete when:
 |---|---|---|---|---|---|---|
 | R5-M18-t1 | Approve the end meso presentation design in Google Slides, with the agreed call structure in mind. | Bernardo | approval | 0.1 | 0 | — |
 | R5-M18-t2 | Confirm that the way data reaches the presentation works: mesocycle 1 fills from the kickoff information, later ones from where the previous mesocycle started, and clients without history can be filled in by hand. | Bernardo | work | 0.5 | 0 | R5-M18-t1 |
-| R5-M18-t3 | Build the end meso automation and its presentation template with two paths: with history, it asks for the client's email and reads the rest; without history, it asks for the data each section needs, such as goals. | Bernardo | work | 2 | 0 | R5-M18-t2 |
+| R5-M18-t3 | Build the end meso automation as an in-house app with Manny (D-055), with its presentation template and two paths: with history, it asks for the client's email and reads the rest; without history, it asks for the data each section needs, such as goals. | Bernardo | work | 4 | 0 | R5-M18-t2 |
 | R5-M18-t4 | Test the path without history with an existing client, loading the data the builder asks for. | Bernardo | work | 0.1 | 0 | R5-M18-t3 |
 | R5-M18-t5 | Wait for the first client whose kickoff call used the new system, plus one week. Elapsed time only. | Bernardo | work | 0 | 9 | R5-M7-t8* |
 | R5-M18-t6 | Test the path with history on that client, loading made-up progress data. | Bernardo | work | 0.1 | 0 | R5-M18-t3, R5-M18-t5 |
